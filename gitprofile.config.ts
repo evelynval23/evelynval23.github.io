@@ -129,6 +129,7 @@ const CONFIG = {
       from: '2019',
       to: '2025',
     },
+  ],
     {
   publications: [
     {
