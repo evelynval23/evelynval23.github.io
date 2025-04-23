@@ -130,7 +130,6 @@ const CONFIG = {
       to: '2025',
     },
   ],
-    {
   publications: [
     {
       title: 'Publication Title',
