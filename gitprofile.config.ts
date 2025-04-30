@@ -38,12 +38,12 @@ const CONFIG = {
             'This paper is on the mutations that occur in the Fibrillin-1 gene in Marfan Syndrome.',
           imageUrl:
             'https://github.com/evelynval23/evelynval23.github.io/raw/main/Screenshot%202025-04-30%20at%209.07.19%20AM.png',
-          link: '',
+          link: 'https://github.com/evelynval23/evelynval23.github.io/raw/main/Marfan%20Syndrome%20Paper%20.pdf',
         },
         {
-          title: 'Project Name',
+          title: '2025 Paper on the Algae at Stanislaus State University',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'This paper covers the recent findings on the algae that is present in the pond water at Stanislaus State University.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',
