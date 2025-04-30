@@ -46,7 +46,7 @@ const CONFIG = {
             'This paper covers the recent findings on the algae that is present in the pond water at Stanislaus State University.',
           imageUrl:
             'https://github.com/evelynval23/evelynval23.github.io/raw/main/Screenshot%202025-04-30%20at%209.08.37%20AM.png',
-          link: 'https://example.com',
+          link: 'https://github.com/evelynval23/evelynval23.github.io/raw/main/Stan%20Algae%20paper.pdf',
         },
       ],
     },
