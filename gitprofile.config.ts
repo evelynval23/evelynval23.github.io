@@ -37,8 +37,8 @@ const CONFIG = {
           description:
             'This paper is on the mutations that occur in the Fibrillin-1 gene in Marfan Syndrome.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://github.com/evelynval23/evelynval23.github.io/raw/main/Screenshot%202025-04-30%20at%209.07.19%20AM.png',
+          link: '',
         },
         {
           title: 'Project Name',
